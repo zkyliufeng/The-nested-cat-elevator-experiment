@@ -85,10 +85,6 @@ Participants are identified only by anonymous codes **P0k-1 to P0k-5** for condi
 
 The study was approved by the Ethics Committee of the Institute for Digital Brain Research of CST (approval no. 2026-9-1). All participants gave written informed consent, including consent to the publication of anonymized results.
 
-## Citation
-
-If you use these materials, please cite the paper above. [Full citation and DOI to be added after publication.]
-
 ## License
 
 Released under the Apache License 2.0. See `LICENSE` for details.
